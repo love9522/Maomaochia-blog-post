@@ -15,4 +15,4 @@ WordPress
 # Authors
 Mal Chia - Initial work
 See also the list of contributors who participated in our blog.
-[Contributors](https://#)
+[Contributors](https://maomaochia.com/author/love9522/)
